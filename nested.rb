@@ -57,7 +57,6 @@ def dennis_ritchies_language
     }
     
   programmer_hash[:denis_ritchie][:languages][0]
-  binding.pry
 end 
  
 
